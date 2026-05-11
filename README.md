@@ -55,7 +55,7 @@ You should see something like `rustc 1.78.0` and `cargo 1.78.0`.
 
 **Option A — Clone with Git:**
 ```bash
-git clone https://github.com/yourusername/notes-cli.git
+git clone https://github.com/Pratham-gupta610/Notes_CLI.git
 cd notes-cli
 ```
 
